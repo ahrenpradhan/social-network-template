@@ -1,4 +1,4 @@
-import { Header } from "ui";
+import { Header } from "platform-ui";
 
 function App() {
   return (
